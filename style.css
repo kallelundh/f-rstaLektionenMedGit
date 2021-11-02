@@ -1,0 +1,37 @@
+@media (max-width: 575px) {
+    .colorCard {
+      background-color: white;
+    }
+    img {
+      width: 200px;
+    }
+  }
+
+  @media (min-width: 576px) {
+    .colorCard {
+      background-color: white;
+    }
+    img {
+      width: 280px;
+    }
+  }
+  
+  .bgT {
+    background-color: tomato;
+  }
+
+.footerbg {
+  background-color:tomato;
+}
+
+footer {
+  height: 400px
+}
+
+.greenBg {
+  background-color: red !important;
+}
+
+.blueBg {
+  background-color: green !important;
+}
